@@ -50,7 +50,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
-                android:text="ANDROID" />
+                android:text="Team 1" />
 
             <ListView
                 android:id="@+id/listView1"
@@ -65,7 +65,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dip"
                 android:gravity="center_vertical"
-                android:text="IOS" />
+                android:text="Team 2" />
 
             <ListView
                 android:id="@+id/listView2"
