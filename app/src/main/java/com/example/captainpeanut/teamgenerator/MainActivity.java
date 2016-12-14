@@ -29,7 +29,7 @@ public class MainActivity extends ActionBarActivity {
 
         ListUtils.setDynamicHeight(mListView1);
         ListUtils.setDynamicHeight(mListView2);
-        //test
+
     }
 
 
